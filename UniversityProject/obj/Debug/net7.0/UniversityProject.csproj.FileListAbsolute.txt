@@ -1,0 +1,45 @@
+C:\Users\Ramez\source\repos\UniversityProject\UniversityProject\bin\Debug\net7.0\UniversityProject.exe
+C:\Users\Ramez\source\repos\UniversityProject\UniversityProject\bin\Debug\net7.0\UniversityProject.deps.json
+C:\Users\Ramez\source\repos\UniversityProject\UniversityProject\bin\Debug\net7.0\UniversityProject.runtimeconfig.json
+C:\Users\Ramez\source\repos\UniversityProject\UniversityProject\bin\Debug\net7.0\UniversityProject.dll
+C:\Users\Ramez\source\repos\UniversityProject\UniversityProject\bin\Debug\net7.0\UniversityProject.pdb
+C:\Users\Ramez\source\repos\UniversityProject\UniversityProject\obj\Debug\net7.0\UniversityProject.csproj.AssemblyReference.cache
+C:\Users\Ramez\source\repos\UniversityProject\UniversityProject\obj\Debug\net7.0\UniversityProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramez\source\repos\UniversityProject\UniversityProject\obj\Debug\net7.0\UniversityProject.AssemblyInfoInputs.cache
+C:\Users\Ramez\source\repos\UniversityProject\UniversityProject\obj\Debug\net7.0\UniversityProject.AssemblyInfo.cs
+C:\Users\Ramez\source\repos\UniversityProject\UniversityProject\obj\Debug\net7.0\UniversityProject.csproj.CoreCompileInputs.cache
+C:\Users\Ramez\source\repos\UniversityProject\UniversityProject\obj\Debug\net7.0\UniversityProject.dll
+C:\Users\Ramez\source\repos\UniversityProject\UniversityProject\obj\Debug\net7.0\refint\UniversityProject.dll
+C:\Users\Ramez\source\repos\UniversityProject\UniversityProject\obj\Debug\net7.0\UniversityProject.pdb
+C:\Users\Ramez\source\repos\UniversityProject\UniversityProject\obj\Debug\net7.0\UniversityProject.genruntimeconfig.cache
+C:\Users\Ramez\source\repos\UniversityProject\UniversityProject\obj\Debug\net7.0\ref\UniversityProject.dll
+C:\Users\asia magdi\Downloads\UniversityProject\UniversityProject\bin\Debug\net7.0\UniversityProject.exe
+C:\Users\asia magdi\Downloads\UniversityProject\UniversityProject\bin\Debug\net7.0\UniversityProject.deps.json
+C:\Users\asia magdi\Downloads\UniversityProject\UniversityProject\bin\Debug\net7.0\UniversityProject.runtimeconfig.json
+C:\Users\asia magdi\Downloads\UniversityProject\UniversityProject\bin\Debug\net7.0\UniversityProject.dll
+C:\Users\asia magdi\Downloads\UniversityProject\UniversityProject\bin\Debug\net7.0\UniversityProject.pdb
+C:\Users\asia magdi\Downloads\UniversityProject\UniversityProject\obj\Debug\net7.0\UniversityProject.csproj.AssemblyReference.cache
+C:\Users\asia magdi\Downloads\UniversityProject\UniversityProject\obj\Debug\net7.0\UniversityProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asia magdi\Downloads\UniversityProject\UniversityProject\obj\Debug\net7.0\UniversityProject.AssemblyInfoInputs.cache
+C:\Users\asia magdi\Downloads\UniversityProject\UniversityProject\obj\Debug\net7.0\UniversityProject.AssemblyInfo.cs
+C:\Users\asia magdi\Downloads\UniversityProject\UniversityProject\obj\Debug\net7.0\UniversityProject.csproj.CoreCompileInputs.cache
+C:\Users\asia magdi\Downloads\UniversityProject\UniversityProject\obj\Debug\net7.0\UniversityProject.dll
+C:\Users\asia magdi\Downloads\UniversityProject\UniversityProject\obj\Debug\net7.0\refint\UniversityProject.dll
+C:\Users\asia magdi\Downloads\UniversityProject\UniversityProject\obj\Debug\net7.0\UniversityProject.pdb
+C:\Users\asia magdi\Downloads\UniversityProject\UniversityProject\obj\Debug\net7.0\UniversityProject.genruntimeconfig.cache
+C:\Users\asia magdi\Downloads\UniversityProject\UniversityProject\obj\Debug\net7.0\ref\UniversityProject.dll
+C:\Users\lenovo\Desktop\UniversityProject\UniversityProject\bin\Debug\net7.0\UniversityProject.exe
+C:\Users\lenovo\Desktop\UniversityProject\UniversityProject\bin\Debug\net7.0\UniversityProject.deps.json
+C:\Users\lenovo\Desktop\UniversityProject\UniversityProject\bin\Debug\net7.0\UniversityProject.runtimeconfig.json
+C:\Users\lenovo\Desktop\UniversityProject\UniversityProject\bin\Debug\net7.0\UniversityProject.dll
+C:\Users\lenovo\Desktop\UniversityProject\UniversityProject\bin\Debug\net7.0\UniversityProject.pdb
+C:\Users\lenovo\Desktop\UniversityProject\UniversityProject\obj\Debug\net7.0\UniversityProject.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\UniversityProject\UniversityProject\obj\Debug\net7.0\UniversityProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\UniversityProject\UniversityProject\obj\Debug\net7.0\UniversityProject.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\UniversityProject\UniversityProject\obj\Debug\net7.0\UniversityProject.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\UniversityProject\UniversityProject\obj\Debug\net7.0\UniversityProject.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\UniversityProject\UniversityProject\obj\Debug\net7.0\UniversityProject.dll
+C:\Users\lenovo\Desktop\UniversityProject\UniversityProject\obj\Debug\net7.0\refint\UniversityProject.dll
+C:\Users\lenovo\Desktop\UniversityProject\UniversityProject\obj\Debug\net7.0\UniversityProject.pdb
+C:\Users\lenovo\Desktop\UniversityProject\UniversityProject\obj\Debug\net7.0\UniversityProject.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\UniversityProject\UniversityProject\obj\Debug\net7.0\ref\UniversityProject.dll
